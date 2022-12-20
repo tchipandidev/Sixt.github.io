@@ -1,0 +1,84 @@
+body{
+    color: white;
+    background-color: rgb(79, 67, 67);
+}
+.menu{
+    text-align: center;
+    margin-left: 500px;
+}
+.list-menu{
+    display: inline-block;
+    margin-left: 10px;
+    text-align: left;
+    list-style: none;
+}
+.link-menu{
+    color: whitesmoke;
+}
+.link-menu:hover{
+    border-top: 2px solid #4f8d97;
+}
+h3,h2{
+    color: gray;
+}
+h2:hover{
+    border-bottom: 2px solid #858585;
+}
+h3:hover{
+    border-bottom: 2px solid #858585;
+}
+h4{
+    color: white;
+    
+}
+.profil-modifier{
+    border: 1px solid transparent;
+    border-style: ;
+    margin-right: 65.7%;
+}
+.profil-box{
+    padding: 20px 30px 15px 30px;
+    background-color: rgb(93, 84, 84);
+    position: relative;
+    outline: 1px solid #212121;
+    outline-offset: -13px;
+}
+.profil-list{
+    padding-left: 2px;
+    list-style: none;
+}
+.level{
+    width: 30em;
+    margin-bottom: 3px;
+    border: solid 1.5px;
+    border-radius: 11px;
+    border-color: rgba(128, 128, 128, 0.979);
+}
+.progress-bar-80{
+    border-radius: 11px;
+    background-color: #4f8d97;
+    width: 384px;
+
+}
+.progress-bar-65{
+    border-radius:11px;
+    background-color: #4f8d97;
+    width: 312px;
+}
+.progress-bar-50{
+    border-radius: 11px;
+    background-color: #4f8d97;
+    width: 240px;
+}
+.progress-bar-90{
+    border-radius: 11px;
+    background-color: #4f8d97;
+    width: 432px;
+}
+.revenir{
+    color: #4f8d97;
+}
+.revenir:hover{
+    color: #297DFD;
+}
+

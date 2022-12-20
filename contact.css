@@ -1,0 +1,35 @@
+fieldset{
+    background-color: rgba(50, 47, 47, 0.746);
+    border-width: 0.12em;
+    border-radius: 0.5em;
+    border-color: white;
+    width: 35em;
+    height: 25em;
+}
+input{
+    background-color: rgb(125, 122, 122);
+    border-radius: 0.5em;
+    border-color: rgba(5, 156, 131, 0.944);
+    width: 20em;
+}
+textarea{
+    background-color: rgb(125, 122, 122);
+    border-width: 0.14em;
+    border-color: rgba(5, 156, 131, 0.944);
+    border-radius: 0.5em;
+    width: 20em;
+}
+button{
+    background-color: rgb(125, 122, 122);
+    border-width: 0.14em;
+    border-color: rgba(5, 156, 131, 0.944);
+    border-radius: 0.5em;
+    width: 20em;
+}
+body{
+    background-color: #232527e5;
+    color: white;
+}
+a{
+    color: rgb(155, 222, 214);
+}
